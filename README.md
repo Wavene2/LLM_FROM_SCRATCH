@@ -1,5 +1,6 @@
 LLM-from-Scratch
-This project serves as a hands-on, educational guide to building a Large Language Model (LLM) from scratch. It breaks down the essential components of LLMs, from text preprocessing to the core mechanisms behind transformer models.
+
+  This project serves as a hands-on, educational guide to building a Large Language Model (LLM) from scratch. It breaks down the essential components of LLMs, from text preprocessing to the core mechanisms behind transformer models.
 
 Repository Structure
 
